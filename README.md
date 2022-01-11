@@ -1,2 +1,2 @@
 # 2022
-Repo Containing the Proceedings of QAPM'22
+This repo contains the proceedings of QAPM'22 (in pre-print form).
